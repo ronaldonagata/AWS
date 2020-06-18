@@ -1,0 +1,27 @@
+IAM
+    * USERS --> criar várias contas
+    * GROUPS --> DB, S3, EC2, etc
+    * ROLES --> regras de acesso/serviços
+    * POLICIES --> EC2 -> READ - DB
+    * PERMISSIONS --> Define o que pode ser feito, as policies podem ser aplicadas em usuários, grupos e roles.
+
+
+-- Aumenta a Segurança
+* Multifactor Authentication
+    * USER
+    * Password
+    * Token / Authentication
+
+-- Sincronização de login com a AWS
+* Identity Federation
+    * Active Directory
+    * Social Networks(facebook)
+
+-- Permite configurar com alta granularidade com os usuários 
+* Permissions (Granulares)
+
+-- Permite integração dos serviços da AWS
+* Services
+
+-- Dados dos clientes protegidos
+* PCI DSS Compliance 
